@@ -1,2 +1,47 @@
-# HFL-BiATT
-Official implementation of HFL-BiATT for privacy-preserving fraud detection using hierarchical federated learning and BiLSTM with attention, evaluated on CreditCardFraud and AI4Risk AntiFraud datasets.
+# HFL-BiATT: Privacy-Preserving Fraud Detection Based on Hierarchical Federated Learning and BiLSTM-Attention
+
+This is the official implementation of the proposed **HFL-BiATT** framework in the paper  
+**"HFL-BiATT: Privacy-Preserving Fraud Detection Based on Hierarchical Federated Learning and Bidirectional LSTM with Attention Mechanisms"**.
+
+
+The model was trained and tested on two widely used fraud datasets: **Credit Card Fraud (ULB)** and **AI4Risk AntiFraud**.
+
+If you want to use the original datasets, please refer to the links below:
+1. Credit Card Fraud (Kaggle / ULB): https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud  
+2. AI4Risk AntiFraud: https://github.com/AI4Risk/antifraud/tree/main/data  
+
+
+---
+
+## Framework
+
+<p align="center">
+  <img src="assets/framework.png" width="900">
+</p>
+
+---
+## Requirements
+
+**Minimum (simple list):**
+1. python 3.8+
+2. pytorch 1.8.0+
+3. numpy
+4. pandas
+5. scikit-learn
+6. matplotlib
+7. tqdm
+
+
+---
+
+## Quick Start
+
+### Installation
+```bash
+git clone https://github.com/<your-username>/HFL-BiATT.git
+cd HFL-BiATT
+pip install -r requirements.txt
+
+
+
+
