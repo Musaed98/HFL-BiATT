@@ -14,10 +14,8 @@ If you want to use the original datasets, please refer to the links below:
 ---
 
 ## Framework
+![alt text](https://github.com/Musaed98/HFL-BiATT/blob/main/framework.png?raw=true)
 
-<p align="center">
-  <img src="assets/framework.png" width="900">
-</p>
 
 ---
 ## Requirements
