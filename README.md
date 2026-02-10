@@ -19,8 +19,6 @@ If you want to use the original datasets, please refer to the links below:
 
 ---
 ## Requirements
-
-**Minimum (simple list):**
 1. python 3.8+
 2. pytorch 1.8.0+
 3. numpy
@@ -36,7 +34,7 @@ If you want to use the original datasets, please refer to the links below:
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/HFL-BiATT.git
+git clone https://github.com/Musaed98/HFL-BiATT.git
 cd HFL-BiATT
 pip install -r requirements.txt
 
